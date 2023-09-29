@@ -1,7 +1,8 @@
 {
     "DEPLOYMENT_NAME":"<Model Deployment Name>",
     "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION":"<OpenAI API Version>",
+    "OPENAI_API_VERSION":"2023-07-01-preview",
+    "OPENAI_API_KEY" : "<YOUR_OPENAI_API_KEY>",
     
     "SEARCH_SERVICE_ENDPOINT": "https://<Your Search Service Name>.search.windows.net",
     "SEARCH_INDEX_NAME": "recipes-vectors",
