@@ -1,5 +1,5 @@
 # Packages needed to call AOAI API with the OpenAI Python API
-openai
+openai==0.28.0
 
 # Packages needed to run the notebook samples
 jupyter
